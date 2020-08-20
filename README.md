@@ -23,9 +23,7 @@ The review prompts can all be found inside [`lib/`](lib/).
 
 ## Requirements
 
-Work with your instructor to figure out which sections of this review will have
-the biggest impact on your checkpoint score. You are encouraged to work through
-all of the review material!
+You are encouraged to work through all of the review material!
 
 | Exercise | Skills |
 | --- | --- |
