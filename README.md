@@ -25,11 +25,11 @@ The review prompts can all be found inside [`lib/`](lib/).
 
 You are encouraged to work through all of the review material!
 
-Note: the Hello exercise is optional, as it's [very similar to what we did on the first day of React](https://git.generalassemb.ly/john-deere-sei-7/react-intro#hello-world-a-little-dynamic-15-min--140). Feel free to do it for the extra practice!
+Note: The Hello exercise is optional, as it's [very similar to what we did on the first day of React](https://git.generalassemb.ly/john-deere-sei-7/react-intro#hello-world-a-little-dynamic-15-min--140). Feel free to do it for the extra practice!
 
 | Exercise | Skills |
 | --- | --- |
-| [Hello](lib/hello/README.md) | Components, Props |
+| [Hello](lib/hello/README.md) | Components, Props (see note above) |
 | [Craigslist](lib/craigslist/README.md) | Components, Props |
 | [To Do](lib/todo/README.md) | Components, State, Props, working with forms |
 
